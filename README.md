@@ -1,4 +1,4 @@
-# Projeto CRUD - Farmácia
+# Projeto CRUD - Farmácia Pague++
 
 Projeto criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um sistema de controle de estoque de uma farmácia feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos em C++.
 
