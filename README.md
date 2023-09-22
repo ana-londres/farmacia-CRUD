@@ -3,11 +3,11 @@
 </h1>
 Projeto criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um sistema de controle de estoque de uma farmácia feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos em C++.
 
-<br>
+<p>&nbsp;</p>
 
 Professor: Derzu Omaia.
 
-<br>
+<p>&nbsp;</p>
 
 ## Especificações gerais
 
