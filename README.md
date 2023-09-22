@@ -1,10 +1,14 @@
-# Projeto CRUD - Farmácia Pague++
+<h1 align="center"> 💊  Farmácia Pague++  💊</h1>
+<h1 align="center">
 
+</h1>
 Projeto criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um sistema de controle de estoque de uma farmácia feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos em C++.
+
+<br>
 
 Professor: Derzu Omaia.
 
-
+<br>
 
 ## Especificações gerais
 
@@ -44,6 +48,7 @@ Professor: Derzu Omaia.
 
 ## Contribuidores
 
-- [@ana-londres](https://github.com/ana-londres)
-- [@joaoleonardovilarf](https://github.com/joaoleonardovilarf)
-- [@nicollecerqueira](https://github.com/nicollecerqueira)
+| <a href="https://www.linkedin.com/in/analondres/" target="_blank">**Ana Luisa Londres**</a> | <a href="https://www.linkedin.com/in/jo%C3%A3o-leonardo-vilar-ferreira-163730291/" target="_blank">**João Leonardo Vilar**</a> | <a href="https://www.linkedin.com/in/nicolle-cerqueira-086578291/" target="_blank">**Nicolle Cerqueira**</a> |
+| :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/125302336?v=4" width="200px">          | <img src="https://avatars.githubusercontent.com/u/130939869?v=4" width="200px">          | <img src="https://avatars.githubusercontent.com/u/125302668?v=4" width="200px">          |
+| <a href="https://github.com/ana-londres" target="_blank">`github.com/ana-londres`</a>  | <a href="https://github.com/joaoleonardovf" target="_blank">`github.com/joaoleonardovf`</a> | <a href="https://github.com/nicollecerqueira" target="_blank">`github.com/nicollecerqueira`</a> |
