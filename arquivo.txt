@@ -1,3 +1,0 @@
-Shampoo Lavanda Dove;13.990000;01478;6;2;4;2026;3;Dove;shampoo;200ml
-Blush pessego;47.000000;00258;15;14;5;2027;2;Niina Secrets;blush;4.5g
-Roacutan;112.000000;00369;13;2;9;2025;1;EMS;Remedio para acne;Tem prescrição.;20mg
