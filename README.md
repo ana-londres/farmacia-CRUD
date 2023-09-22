@@ -42,7 +42,7 @@ Professor: Derzu Omaia.
 
 ## Diagrama de classes
 
-![DiagramaClasses](https://github.com/ana-londres/farmacia-CRUD/assets/125302336/92ce50a7-4d47-4a01-91c4-cfddfb84e95a)
+![Diagrama](https://github.com/ana-londres/farmacia-CRUD/blob/main/CrudAstahUML.png?raw=true)
 
 
 ## Contribuidores
