@@ -28,11 +28,13 @@ void HigienePessoal::exibir(){
 
     cout << "\tConteúdo: " << conteudo << endl << endl;
 }
+
 void HigienePessoal::listar(){
     Produtos::listar();
 
     cout << conteudo << endl;
 }
+
 void HigienePessoal::alterar(){
     Produtos::alterar();
 
@@ -56,7 +58,7 @@ void HigienePessoal::alterar(){
             case 2:{
                 cout << "Insira o novo valor desse produto(R$): ";
                 cin >> custo;
-                cin.ignore(); //é bom fazer isso toda vez???
+                cin.ignore(); 
                 break;
             }
 
@@ -113,7 +115,7 @@ void HigienePessoal::alterar(){
             }
         }
     }
-    cout << "Novo produto alterado com sucesso.\n";
+    cout << "Produto alterado com sucesso!\n";
 }
 
 void HigienePessoal::lerAtributos(){

@@ -177,7 +177,7 @@ void EncerrarPrograma(Estoque *estoque){
             arquivo << endl;
         }
     }
-    cout << "Programa encerrado! Os dados foram salvos com sucesso.\n";
+    cout << "Programa encerrado. Os dados foram salvos com sucesso. Obrigado por usar o sistema da Farmácia Pague++!\n";
     arquivo.close();
 }
 

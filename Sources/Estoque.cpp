@@ -101,12 +101,10 @@ void Estoque::removerProduto(int pos) {
                 getchar();
 
                 if (resposta == 'n') {
-                    //system("cls");
                     cout << "Sua remoção foi cancelada.\n\n";
                     return;
                 } else if (resposta == 's') {
                     produto.erase(produto.begin() + pos);
-                    //system("cls");
                     cout << "Remoção de produto bem-sucedida.\n\n";
                     return;
                 } else {

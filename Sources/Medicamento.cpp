@@ -1,3 +1,5 @@
+//Medicamento.cpp
+
 #include "Medicamento.h"
 
 #include <iostream>
@@ -86,7 +88,7 @@ void Medicamento::alterar(){
             case 2:{
                 cout << "Insira o novo valor desse produto(R$): ";
                 cin >> custo;
-                cin.ignore(); //é bom fazer isso toda vez???
+                cin.ignore();
                 break;
             }
 
@@ -166,7 +168,7 @@ void Medicamento::alterar(){
             }
         }
     }
-    cout << "Novo produto alterado com sucesso!\n";
+    cout << "Produto alterado com sucesso!\n";
 }
 
 void Medicamento::lerAtributos(){
