@@ -1,5 +1,8 @@
-Shampoo Lavanda Dove;13.990000;01478;6;2;4;2026;3;Dove;shampoo;200ml
-Blush pessego;47.000000;00258;15;14;5;2027;2;Niina Secrets;blush;4.5g
-Roacutan;112.000000;00369;13;2;9;2025;1;EMS;Remedio para acne;Tem prescrição.;20mg
-Fluoxetina;25.900000;00124;16;6;10;2025;1;eurofarma;Ansiolitico;Tem prescrição.;25mg
-Desodorante Blue Giovanna Baby;12.900000;01357;24;15;4;2027;3;Giovanna Baby;Desodorante roll on;15ml
+isotretino�na;155.529999;010222;10;12;12;2024;1;roacutan;remedio para acne;Não tem prescrição.;20mg
+desodorante dove spray;24.500000;0101232425;20;15;10;2023;3;dove;desodorante;100ml
+florence;99.989998;3311130;34;2;4;2026;2;zara;perfume;150ml
+Orfenadrina;24.500000;09090909;10;12;12;2012;1;dorflex;rem�dio para dor de cabe�a;Não tem prescrição.;35mg
+base mate BR;49.900002;343435;50;23;12;2027;2;boca rosa;base;30ml
+fio dental expansion plus;6.550000;16335;100;22;9;2025;3;johnson johnson;fio dental;cera
+analg�sico ibuprofeno;19.389999;199494;82;2;8;2025;1;Advil;rem�dio para dor;Não tem prescrição.;400mg
+desloratadina;75.489998;7341824;20;16;7;2025;1;desalex;antial�rgico;Não tem prescrição.;0.5mg/ml
